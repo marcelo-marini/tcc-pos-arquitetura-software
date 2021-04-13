@@ -16,7 +16,7 @@ https://github.com/marcelo-marini/sigo-standard
 
 ## API Gateway
 
-API NET Core 3.1 utilzando o básico do framework Ocelot que é o roteamento
+API NET Core 3.1 utilzando o básico do framework Ocelot, que é o roteamento
 
 https://github.com/marcelo-marini/sigo-api-gateway
 
