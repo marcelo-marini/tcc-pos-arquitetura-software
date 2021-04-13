@@ -1,4 +1,4 @@
-# POC para conclusão do curso de pós graduação em Arquitetura de Software distribuído
+# POC para conclusão do curso de pós graduação em Arquitetura de Software distribuído - PUC Minas
 
 A aplicação está dividida em 4 repositórios:
 
