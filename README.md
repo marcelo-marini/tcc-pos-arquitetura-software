@@ -18,6 +18,10 @@ https://github.com/marcelo-marini/sigo-standard
 
 API NET Core 3.1 utilzando o básico do framework Ocelot que é o roteamento
 
+https://github.com/marcelo-marini/sigo-api-gateway
+
 ## Web App
 
 Aplicação MVC NET Core 3.1 utilizada como camada de apresentação do sistema
+
+https://github.com/marcelo-marini/sigo-web-app
